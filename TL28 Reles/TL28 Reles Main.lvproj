@@ -10,7 +10,7 @@
 		<Property Name="server.vi.callsEnabled" Type="Bool">true</Property>
 		<Property Name="server.vi.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
-		<Item Name="Array_Erd_Data_Erd_Id.vi" Type="VI" URL="../Array_Erd_Data_Erd_Id.vi"/>
+		<Item Name="Array_Erd_Data_Erd_Id.vi" Type="VI" URL="../Subvis/Array_Erd_Data_Erd_Id.vi"/>
 		<Item Name="Build_Erd_Header_Name_And_Number.vi" Type="VI" URL="../../../../Common/sub vis/Build_Erd_Header_Name_And_Number.vi"/>
 		<Item Name="Data_Array_To_Decimal.vi" Type="VI" URL="../Subvis/Data_Array_To_Decimal.vi"/>
 		<Item Name="Grafica.vi" Type="VI" URL="../Subvis/Grafica.vi"/>
