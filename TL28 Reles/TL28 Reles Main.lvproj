@@ -14,6 +14,9 @@
 		<Item Name="Build_Erd_Header_Name_And_Number.vi" Type="VI" URL="../../../../Common/sub vis/Build_Erd_Header_Name_And_Number.vi"/>
 		<Item Name="Data_Array_To_Decimal.vi" Type="VI" URL="../Subvis/Data_Array_To_Decimal.vi"/>
 		<Item Name="Grafica.vi" Type="VI" URL="../Subvis/Grafica.vi"/>
+		<Item Name="Pruebas.vi" Type="VI" URL="../../../QA Mabe/QA/TL28RelesSecadora/TL28 Reles/Pruebas.vi"/>
+		<Item Name="Select_Button_To_Disable.vi" Type="VI" URL="../../../QA Mabe/QA/TL28RelesSecadora/TL28 Reles/Subvis/Select_Button_To_Disable.vi"/>
+		<Item Name="States_Buttons_References.vi" Type="VI" URL="../../../QA Mabe/QA/TL28RelesSecadora/TL28 Reles/Subvis/States_Buttons_References.vi"/>
 		<Item Name="States_Read_Erds_Current.ctl" Type="VI" URL="../Controles/States_Read_Erds_Current.ctl"/>
 		<Item Name="TL28 Reles Main.vi" Type="VI" URL="../TL28 Reles Main.vi"/>
 		<Item Name="Write_Csv_Erds (Only Name and Erds).vi" Type="VI" URL="../../../../Common/sub vis/Write_Csv_Erds (Only Name and Erds).vi"/>
@@ -107,6 +110,7 @@
 			<Item Name="Relevador.ctl" Type="VI" URL="../Controles/Relevador.ctl"/>
 			<Item Name="Source_Destination.ctl" Type="VI" URL="../../../../Common/LabVIEW GEA2 Toolkit/GEA3/type defs/Source_Destination.ctl"/>
 			<Item Name="Source_Destination.ctl" Type="VI" URL="../../../../Common/LabVIEW GEA2 Toolkit/type defs/Source_Destination.ctl"/>
+			<Item Name="States_Secuencia_Relevadores.ctl" Type="VI" URL="../Controles/States_Secuencia_Relevadores.ctl"/>
 			<Item Name="Temporizador.vi" Type="VI" URL="../Temporizador.vi"/>
 			<Item Name="TimeStamp to String Array.vi" Type="VI" URL="../../../../Common/sub vis/TimeStamp to String Array.vi"/>
 			<Item Name="Update Message Data.vi" Type="VI" URL="../../../../Common/LabVIEW GEA2 Toolkit/subVIs/Update Message Data.vi"/>
